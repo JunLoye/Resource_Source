@@ -17,6 +17,7 @@
     - [💻 开发者](#-开发者)
     - [🎨 设计](#-设计)
     - [📚 学习](#-学习)
+    - [💬 AI](#-ai)
     - [🔧 工具](#-工具)
     - [📊 数据与API](#-数据与API)
     - [🛒 电商与商业](#-电商与商业)
@@ -35,7 +36,7 @@
 | :---------- | :------------------------------------------- | :----------------------------------- | :---------- |
 | Google | 全球最流行的搜索引擎 | [https://www.google.com](https://www.google.com) | 🛜 需要代理 |
 | Bing | 微软出品，对英文搜索和国际资讯抓取有优势 | [https://www.bing.com](https://www.bing.com) | 🌍 全球可用 |
-| Yahoo | 老牌搜索引擎，可结合地区特色挖掘区域市场资源 | [https://search.yahoo.com](https://search.yahoo.com) | 🌍 全球可用 |
+| Yahoo | 老牌搜索引擎，结合地区特色资源 | [https://search.yahoo.com](https://search.yahoo.com) | 🌍 全球可用 |
 | Yandex | 俄罗斯主流搜索引擎，东欧和中亚地区使用率高 | [https://yandex.com](https://yandex.com) | 🌍 全球可用 |
 | DuckDuckGo | 注重隐私保护的搜索引擎 | [https://duckduckgo.com](https://duckduckgo.com) | 🌍 全球可用 |
 | Google Scholar | 谷歌学术搜索 | [https://scholar.google.com](https://scholar.google.com) | 🛜 需要代理 |
@@ -49,10 +50,10 @@
 
 | 网站 | 描述 | 链接 | 访问区域 |
 | :---------- | :------------------------------------------- | :----------------------------------- | :---------- |
-| YouTube Music | 谷歌推出的音乐流媒体服务 | [https://music.youtube.com](https://music.youtube.com) | 🛜 需要代理 |
 | Spotify | 全球最流行的音乐流媒体平台 | [https://www.spotify.com](https://www.spotify.com) | 🌍 全球可用 |
-| SoundCloud | 开放的音乐和播客分享社区 | [https://soundcloud.com](https://soundcloud.com) | 🌍 全球可用 |
+| YouTube Music | 谷歌推出的音乐流媒体服务 | [https://music.youtube.com](https://music.youtube.com) | 🛜 需要代理 |
 | Apple Music | 苹果公司音乐订阅服务 | [https://www.apple.com/apple-music](https://www.apple.com/apple-music) | 🛜 需要代理 |
+| SoundCloud | 开放的音乐和播客分享社区 | [https://soundcloud.com](https://soundcloud.com) | 🌍 全球可用 |
 | Bensound | 免费可商用背景音乐 | [https://www.bensound.com](https://www.bensound.com) | 🌍 全球可用 |
 | Epidemic Sound | 大量免版权音乐和音效库 | [https://www.epidemicsound.com](https://www.epidemicsound.com) | 🌍 全球可用 |
 | Mixkit | 免费视频素材、音乐和音效 | [https://mixkit.co](https://mixkit.co) | 🌍 全球可用 |
@@ -68,8 +69,9 @@
 | Netflix | 国际主流流媒体视频服务 | [https://www.netflix.com](https://www.netflix.com) | 🛜 需要代理 |
 | Twitch | 专注于游戏直播和互动娱乐的平台 | [https://www.twitch.tv](https://www.twitch.tv) | 🛜 需要代理 |
 | Bilibili (B站) | 中国年轻人的潮流文化社区和视频平台 | [https://www.bilibili.com](https://www.bilibili.com) | 🇨🇳 国内优化 |
+| TikTok | 短视频社交平台（国际版） | [https://www.tiktok.com](https://www.tiktok.com) | 🛜 需要代理 |
+| 抖音 | 短视频社交平台（国内版） | [https://www.douyin.com](https://www.douyin.com) | 🇨🇳 国内优化 |
 | Vimeo | 高质量创意视频分享社区 | [https://vimeo.com](https://vimeo.com) | 🌍 全球可用 |
-| TikTok/抖音 | 短视频社交平台 | [https://www.tiktok.com](https://www.tiktok.com) | 🌍 全球可用 |
 | Pexels Videos | 免费高质量视频素材库 | [https://www.pexels.com/videos](https://www.pexels.com/videos) | 🌍 全球可用 |
 | Pixabay Videos | 免费高清无版权视频 | [https://pixabay.com/videos](https://pixabay.com/videos) | 🌍 全球可用 |
 | Coverr | 免费网站背景视频 | [https://coverr.co](https://coverr.co) | 🌍 全球可用 |
@@ -148,11 +150,7 @@
 | 网站 | 描述 | 链接 | 访问区域 |
 | :----------------- | :--------------------- | :-------------------------------------------------------------------------------------- | :------------ |
 | Coursera | 顶尖大学在线课程 | [https://www.coursera.org](https://www.coursera.org) | 🌍 全球可用 |
-| B站知识区 | 视频学习社区 | [https://www.bilibili.com](https://www.bilibili.com) | 🇨🇳 国内优化 |
-| 中国大学MOOC | 国内优质课程平台 | [https://www.icourse163.org](https://www.icourse163.org) | 🇨🇳 国内优化 |
 | edX | 哈佛/MIT 公开课 | [https://www.edx.org](https://www.edx.org) | 🌍 全球可用 |
-| Khan Academy | 全免费中小学到大学课程 | [https://www.khanacademy.org](https://www.khanacademy.org) | 🛜 需要代理 |
-| Google Developers | 谷歌官方开发者学习资源 | [https://developers.google.com](https://developers.google.com) | 🛜 需要代理 |
 | MIT OpenCourseWare | MIT 原版课程 | [https://ocw.mit.edu](https://ocw.mit.edu) | 🌍 全球可用 |
 | Stanford Online | 斯坦福公开课 | [https://online.stanford.edu](https://online.stanford.edu) | 🌍 全球可用 |
 | Udacity | 纳米学位/职业导向 | [https://www.udacity.com](https://www.udacity.com) | 🌍 全球可用 |
@@ -163,6 +161,10 @@
 | Frontend Mentor | 前端真实项目练手 | [https://www.frontendmentor.io](https://www.frontendmentor.io) | 🌍 全球可用 |
 | CSS-Tricks | 前端技巧文章库 | [https://css-tricks.com](https://css-tricks.com) | 🌍 全球可用 |
 | JavaScript.info | 现代 JS 教程 | [https://javascript.info](https://javascript.info) | 🌍 全球可用 |
+| Google Developers | 谷歌官方开发者学习资源 | [https://developers.google.com](https://developers.google.com) | 🛜 需要代理 |
+| Khan Academy | 全免费中小学到大学课程 | [https://www.khanacademy.org](https://www.khanacademy.org) | 🛜 需要代理 |
+| B站知识区 | 视频学习社区 | [https://www.bilibili.com](https://www.bilibili.com) | 🇨🇳 国内优化 |
+| 中国大学MOOC | 国内优质课程平台 | [https://www.icourse163.org](https://www.icourse163.org) | 🇨🇳 国内优化 |
 | 网易云课堂 | 中文职业技能 | [https://study.163.com](https://study.163.com) | 🇨🇳 国内优化 |
 | 腾讯课堂 | 中文在线培训 | [https://ke.qq.com](https://ke.qq.com) | 🇨🇳 国内优化 |
 | 慕课网 | IT 技能短视频 | [https://www.imooc.com](https://www.imooc.com) | 🇨🇳 国内优化 |
@@ -175,11 +177,28 @@
 | LinkedIn Learning | 职业发展课程 | [https://www.linkedin.com/learning](https://www.linkedin.com/learning) | 🌍 全球可用 |
 | MasterClass | 大师授课平台 | [https://www.masterclass.com](https://www.masterclass.com) | 🌍 全球可用 |
 
+### 💬 AI
+
+| 网站 | 描述 | 链接 | 访问区域 |
+| :----------- | :---------------------- | :---------------------------------------------------------------------------- | :------------ |
+| ChatGPT | 领先的 AI 聊天/模型接口 | [https://chat.openai.com](https://chat.openai.com) | 🛜 需要代理 |
+| Anthropic Claude | 另一家领先的 AI 模型，注重安全 | [https://www.claude.ai](https://www.claude.ai) | 🛜 需要代理 |
+| Google Gemini | 谷歌推出的新一代 AI 模型 | [https://gemini.google.com](https://gemini.google.com) | 🛜 需要代理 |
+| Perplexity AI | 结合搜索和 LLM 的知识引擎 | [https://www.perplexity.ai](https://www.perplexity.ai) | 🌍 全球可用 |
+| 百度文心一言 | 百度自研的中文大语言模型 | [https://yiyan.baidu.com](https://yiyan.baidu.com) | 🇨🇳 国内优化 |
+| 通义千问 (Qwen) | 阿里云研发的超大规模语言模型 | [https://tongyi.aliyun.com](https://tongyi.aliyun.com) | 🇨🇳 国内优化 |
+| 讯飞星火 | 科大讯飞的中文认知大模型 | [https://xinghuo.xfyun.cn](https://xinghuo.xfyun.cn) | 🇨🇳 国内优化 |
+| DeepSeek | 深度求索研发的通用大模型 | [https://www.deepseek.com](https://www.deepseek.com) | 🇨🇳 国内优化 |
+| Midjourney | 强大的 AI 图像生成工具 | [https://www.midjourney.com](https://www.midjourney.com) | 🛜 需要代理 |
+| Stable Diffusion | 开源的文生图模型 | [https://stability.ai](https://stability.ai) | 🌍 全球可用 |
+| GitHub Copilot | AI 编程代码助手 | [https://github.com/features/copilot](https://github.com/features/copilot) | 🌍 全球可用 |
+| Hugging Face | AI/ML 模型和数据集的社区 | [https://huggingface.co](https://huggingface.co) | 🌍 全球可用 |
+| Meta Llama | Meta 开源的大语言模型系列 | [https://ai.meta.com/llama](https://ai.meta.com/llama) | 🌍 全球可用 |
+
 ### 🔧 工具
 
 | 网站 | 描述 | 链接 | 访问区域 |
 | :----------- | :---------------------- | :---------------------------------------------------------------------------- | :------------ |
-| ChatGPT/OpenAI | 领先的 AI 聊天/模型接口 | [https://chat.openai.com](https://chat.openai.com) | 🛜 需要代理 |
 | Notion | 全能工作台 | [https://www.notion.so](https://www.notion.so) | 🌍 全球可用 |
 | Canva | 在线设计工具 | [https://www.canva.com](https://www.canva.com) | 🌍 全球可用 |
 | 语雀 | 阿里旗下文档工具 | [https://www.yuque.com](https://www.yuque.com) | 🇨🇳 国内优化 |
@@ -236,7 +255,6 @@
 
 | 网站 | 描述 | 链接 | 访问区域 |
 | :---------- | :------------------------------------------- | :----------------------------------- | :---------- |
-| Google Ads | 谷歌广告投放平台 | [https://ads.google.com](https://ads.google.com) | 🛜 需要代理 |
 | Amazon | 全球最大的综合性电商平台 | [https://www.amazon.com](https://www.amazon.com) | 🌍 全球可用 |
 | eBay | 国际在线拍卖和购物网站 | [https://www.ebay.com](https://www.ebay.com) | 🌍 全球可用 |
 | AliExpress | 阿里巴巴旗下面向全球的小额批发零售平台 | [https://www.aliexpress.com](https://www.aliexpress.com) | 🌍 全球可用 |
@@ -246,15 +264,16 @@
 | WooCommerce | WordPress 电商插件 | [https://woocommerce.com](https://woocommerce.com) | 🌍 全球可用 |
 | Indiegogo/Kickstarter | 国际众筹平台 | [https://www.indiegogo.com](https://www.indiegogo.com) | 🌍 全球可用 |
 | Product Hunt | 科技产品发布和发现社区 | [https://www.producthunt.com](https://www.producthunt.com) | 🌍 全球可用 |
+| Google Ads | 谷歌广告投放平台 | [https://ads.google.com](https://ads.google.com) | 🛜 需要代理 |
 
 ### 📰 新闻与效率
 
 | 网站 | 描述 | 链接 | 访问区域 |
 | :---------- | :------------------------------------------- | :----------------------------------- | :---------- |
-| Twitter / X | 国际主流社交媒体和实时信息平台 | [https://twitter.com](https://twitter.com) | 🛜 需要代理 |
+| X | 国际主流社交媒体和实时信息平台（原 Twitter） | [https://twitter.com](https://twitter.com) | 🛜 需要代理 |
 | Facebook | 国际社交媒体平台 | [https://www.facebook.com](https://www.facebook.com) | 🛜 需要代理 |
-| Hacker News | Y Combinator 旗下的科技新闻社区 | [https://news.ycombinator.com](https://news.ycombinator.com) | 🌍 全球可用 |
 | Reddit | 全球最大的论坛/社区聚合平台 | [https://www.reddit.com](https://www.reddit.com) | 🌍 全球可用 |
+| Hacker News | Y Combinator 旗下的科技新闻社区 | [https://news.ycombinator.com](https://news.ycombinator.com) | 🌍 全球可用 |
 | The Verge | 专注于科技、艺术和文化的媒体 | [https://www.theverge.com](https://www.theverge.com) | 🌍 全球可用 |
 | TechCrunch | 报道创业公司、科技新闻和分析 | [https://techcrunch.com](https://techcrunch.com) | 🌍 全球可用 |
 | Feedly | 现代化的 RSS 阅读器，聚合新闻源 | [https://feedly.com](https://feedly.com) | 🌍 全球可用 |
